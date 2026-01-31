@@ -73,4 +73,15 @@ Python was used to:
 
 ---
 
+## Dashboard preview
+
+### Dashboard 1 – Production Overview
+<img width="1332" height="741" alt="Screenshot dashboard 1" src="https://github.com/user-attachments/assets/0c39071f-412d-4978-b92f-cf8cfabbda20" />
+
+### Dashboard 2 – Downtime & Loss Analysis
+<img width="1311" height="742" alt="Screenshot dashboard 2" src="https://github.com/user-attachments/assets/43e5070d-fe86-4609-ae62-a85e2b706606" />
+
+### Dashboard 3 – Quality & Efficiency Insights
+<img width="1326" height="738" alt="Screenshot dashboard 3" src="https://github.com/user-attachments/assets/e278b015-4dd7-4bfc-8108-7135e59716ba" />
+
 
